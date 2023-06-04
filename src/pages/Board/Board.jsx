@@ -57,7 +57,7 @@ const BoardPage = () => {
     return (
         <div className="board-container">
 
-            <span>Trello Board</span>
+            <span>ToDo Board</span>
 
             <Board
                 allowAddColumn

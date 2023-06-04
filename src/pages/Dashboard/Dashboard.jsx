@@ -30,7 +30,7 @@ const Dashboard = () => {
                   </div>
 
                   <div className={css.cardAmount}>
-                    <span>$</span>
+                    <span>Rs</span>
                     <span>{groupNumber(card.amount)}</span>
                   </div>
                 </div>

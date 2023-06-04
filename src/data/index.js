@@ -171,8 +171,8 @@ export const boardData = {
 export const userData = [
   {
     name: {
-      firstName: 'John',
-      lastName: 'Doe',
+      firstName: 'Ayush',
+      lastName: 'Yadav',
     },
     address: '261 Erdman Ford',
     city: 'East Daphne',
@@ -180,8 +180,8 @@ export const userData = [
   },
   {
     name: {
-      firstName: 'Jane',
-      lastName: 'Doe',
+      firstName: 'Jay',
+      lastName: 'Khandekar',
     },
     address: '769 Dominic Grove',
     city: 'Columbus',
@@ -198,8 +198,8 @@ export const userData = [
   },
   {
     name: {
-      firstName: 'Kevin',
-      lastName: 'Vandy',
+      firstName: 'Antriksh',
+      lastName: 'Shinde',
     },
     address: '722 Emie Stream',
     city: 'Lincoln',
@@ -207,16 +207,16 @@ export const userData = [
   },
   {
     name: {
-      firstName: 'Joshua',
-      lastName: 'Rolluffs',
+      firstName: 'Al-libaan',
+      lastName: 'Kazi',
     },
     address: '32188 Larkin Turnpike',
     city: 'Charleston',
     state: 'South Carolina',
   }, {
     name: {
-      firstName: 'Jane',
-      lastName: 'Doe',
+      firstName: 'Kundan',
+      lastName: 'Dolas',
     },
     address: '769 Dominic Grove',
     city: 'Columbus',
@@ -224,8 +224,8 @@ export const userData = [
   },
   {
     name: {
-      firstName: 'Joe',
-      lastName: 'Doe',
+      firstName: 'Dhriti',
+      lastName: 'Pandya',
     },
     address: '566 Brakus Inlet',
     city: 'South Linda',
@@ -233,8 +233,8 @@ export const userData = [
   },
   {
     name: {
-      firstName: 'Kevin',
-      lastName: 'Vandy',
+      firstName: 'Vrushali',
+      lastName: 'Khurade',
     },
     address: '722 Emie Stream',
     city: 'Lincoln',
@@ -242,7 +242,7 @@ export const userData = [
   },
   {
     name: {
-      firstName: 'Joshua',
+      firstName: 'Atharva Thite',
       lastName: 'Rolluffs',
     },
     address: '32188 Larkin Turnpike',

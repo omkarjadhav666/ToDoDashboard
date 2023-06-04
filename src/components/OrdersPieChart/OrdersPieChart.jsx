@@ -73,7 +73,7 @@ const OrdersPieChart = () => {
                     { value: 2190, name: "Search Engine" },
                     { value: 735, name: "Direct" },
                     { value: 580, name: "Email" },
-                    { value: 484, name: "Union Ads" },
+                    { value: 484, name: "Ads" },
                 ]
             }
         ]

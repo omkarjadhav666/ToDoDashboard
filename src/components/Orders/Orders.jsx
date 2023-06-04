@@ -13,7 +13,7 @@ const Orders = () => {
 
             <div className={`grey-container ${css.stat}`}>
                 <span>Amount</span>
-                <span>$ {groupNumber(4560)}</span>
+                <span>Rs {groupNumber(4560)}</span>
             </div>
 
             <div className={css.orders}>
@@ -22,7 +22,7 @@ const Orders = () => {
                         <div key={index} className={css.order}>
                             <div>
                                 <span>{order.name}</span>
-                                <span>$ {order.change}</span>
+                                <span>Rs {order.change}</span>
                             </div>
                             <div>
                                 <span>{order.type}</span>

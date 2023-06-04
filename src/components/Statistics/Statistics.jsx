@@ -17,20 +17,20 @@ const Statistics = () => {
                     </div>
 
                     <div className={css.card}>
-                        <span>Top item this month</span><span>Office comps</span>
+                        <span>Top item this month</span><span>Freelancing</span>
                     </div>
                 </div>
 
                 <div className={css.card}>
-                    <span>Items</span><span>$ {groupNumber(455)}</span>
+                    <span>Items</span><span>Rs {groupNumber(455)}</span>
                 </div>
 
                 <div className={css.card}>
-                    <span>Profit</span><span>$ {groupNumber(370000)}</span>
+                    <span>Profit</span><span>Rs {groupNumber(370000)}</span>
                 </div>
 
                 <div className={css.card}>
-                    <span>Daily Average</span><span>$ {groupNumber(2000)}</span>
+                    <span>Daily Average</span><span>Rs {groupNumber(2000)}</span>
                 </div>
             </div>
 
